@@ -6,13 +6,66 @@
 */
 :root
 {
-	dark-green: rgb(0,102,0);
+	#06623E: rgb(0,89,0);
 }
 body
 {
 	text-align: center;
 	list-style-position: inside;
-	background-color:  var(dark-green);
+	background-color:  var(--old-western-brown);
+}
+header
+{
+	background-color:  sandybrown;
+	border: 5px dashed brown;
+	margin: 10px 100px;
+}
+header h1
+{
+	font-size:  60pt;
+	margin-top:  10px;
+	margin-bottom: 0;
+}
+header h2
+{
+	font-size:  20pt;
+	color: var(--old-western-brown);
+	font-variant: small-caps;
+}
+main h1
+{
+	font-size:  70pt;
+	font-family: 'Brush Script MT', cursive;
+	margin: 0;
+}
+h1+h2
+{
+	margin-top: -15px;
+}
+main h2
+{
+	text-decoration: underline;
+	font-weight: bold;
+	margin-bottom: 0;
+}
+main ul
+{
+	display:  table;
+	margin: 0 auto;
+	text-align:  left;
+	padding-left: 2px;
+}
+#wantedlist
+{
+	font-size: 25pt;
+	float:  right;
+}: rgb(0,102,0);
+}
+body
+{
+	text-align: center;
+	list-style-position: inside;
+	background-color:  var rgb(0, 102, 0);
 }
 header
 {
