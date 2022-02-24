@@ -105,11 +105,11 @@ main ul
 {
 	display:  table;
 	margin: 0 auto;
-	text-align:  left;
+	text-align:  none;
 	padding-left: 2px;
 }
 #wantedlist
 {
 	font-size: 25pt;
-	float:  right;
+	float:  left;
 }
