@@ -1,7 +1,7 @@
 /*
 *
 {
-	border: 1px solid brown;
+	border: 1px rebeccapurple;
 }
 */
 :root
@@ -35,7 +35,7 @@ header h2
 main h1
 {
 	font-size:  70pt;
-	font-family: 'Brush Script MT', cursive;
+	font-family: 'butcherman-caps';
 	margin: 0;
 }
 h1+h2
