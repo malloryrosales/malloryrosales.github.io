@@ -12,12 +12,12 @@ body
 {
 	text-align: center;
 	list-style-position: inside;
-	background-color:  var(--old-western-brown);
+	background-color:  var(#06623E);
 }
 header
 {
-	background-color:  sandybrown;
-	border: 5px dashed brown;
+	background-color:  rebeccapurple;
+	border: 5px dashed black;
 	margin: 10px 100px;
 }
 header h1
@@ -29,7 +29,7 @@ header h1
 header h2
 {
 	font-size:  20pt;
-	color: var(--old-western-brown);
+	color: var(#06623E);
 	font-variant: small-caps;
 }
 main h1
@@ -82,13 +82,13 @@ header h1
 header h2
 {
 	font-size:  20pt;
-	color: var(dark-green);
+	color: var(#06623E);
 	font-variant: small-caps;
 }
 main h1
 {
 	font-size:  70pt;
-	font-family: 'butcherman-caps';
+	font-family: 'butcherman-caps', cursive;
 	margin: 0;
 }
 h1+h2
