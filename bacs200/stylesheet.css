@@ -5,4 +5,17 @@ body {
 h1 {
   color: #3A3A7C;
   margin-left: 20px;
+  font-family: 'Josefin Slab', serif;
+}
+body
+{
+	text-align: center;
+	list-style-position: inside;
+	background-color:  lightblue;
+	font-family: 'Open Sans', sans-serif;
+}
+h2 {
+	color: #3A3A7C;
+  margin-left: 20px;
+  font-family: 'Open Sans', sans-serif;
 }
